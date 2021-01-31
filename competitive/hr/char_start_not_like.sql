@@ -1,6 +1,3 @@
-/*
-Enter your query here.
-*/
 
 /*
 Enter your query here.
