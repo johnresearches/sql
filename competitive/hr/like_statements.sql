@@ -1,5 +1,6 @@
 /*
 Enter your query here.
+
 SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE '[aeiou]%'; (didn't work but it should)
 */
 SELECT DISTINCT CITY FROM STATION WHERE CITY LIKE 'a%';
