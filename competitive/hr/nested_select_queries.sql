@@ -1,8 +1,6 @@
 /*
 Enter your query here.
-
 SELECT COUNT(CustomerID), Country
-
 FROM Customers
 
 
