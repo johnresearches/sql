@@ -2,8 +2,6 @@
 Enter your query here.
 SELECT COUNT(CustomerID), Country
 FROM Customers
-
-
 GROUP BY Country
 
 HAVING COUNT(CustomerID) > 5
